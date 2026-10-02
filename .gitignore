@@ -1,0 +1,5 @@
+.vagrant/
+*.box
+software/
+*.zip
+*.log
